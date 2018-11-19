@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 19, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jonathan Poteet
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To create a program to display a gallery of images that allows navigation to view each image.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://indeliblerock.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to add nodes using the .createElement("") function.
+2. How to attach nodes to the DOM by appending the node using the .appendChild("") function.
+3. How to clone a node by using the .cloneNode(True|False) function.
 
